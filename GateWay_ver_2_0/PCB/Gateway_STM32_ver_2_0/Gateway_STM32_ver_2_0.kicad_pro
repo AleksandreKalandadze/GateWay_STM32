@@ -404,7 +404,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Gateway_STM32_ver_2_0.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
