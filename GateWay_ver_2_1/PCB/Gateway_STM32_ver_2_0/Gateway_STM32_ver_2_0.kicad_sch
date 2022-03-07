@@ -1684,10 +1684,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "W5500_RST" (shape input) (at 114.046 61.468 0) (fields_autoplaced)
+  (global_label "W5500_RST" (shape input) (at 114.046 58.928 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 63442cf7-871b-4ae0-a134-c0416f996e82)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 127.0745 61.5474 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 127.0745 59.0074 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -1880,10 +1880,10 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (global_label "W5500_INT" (shape input) (at 114.046 58.928 0) (fields_autoplaced)
+  (global_label "W5500_INT" (shape input) (at 114.046 61.468 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid d7feaeca-c1ec-4e1f-aa08-5b8014528f8a)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 126.5302 59.0074 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 126.5302 61.5474 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4837,6 +4837,9 @@
     (path "/e40d400f-21fb-4c65-843c-1a01a751a40c"
       (reference "#PWR0291") (unit 1) (value "+3V0") (footprint "")
     )
+    (path "/8600ef7b-7ca3-4a98-82a9-dc0d4d9efebb/718c0a71-8caf-4775-a9fd-8fc71bd22381"
+      (reference "#PWR0292") (unit 1) (value "GND") (footprint "")
+    )
     (path "/17dbbc3f-e526-4f0c-aeef-1a51fbd344a5/44e527b0-0c19-4642-86b3-bad529530e43"
       (reference "#PWR0319") (unit 1) (value "+5V") (footprint "")
     )
@@ -5073,6 +5076,9 @@
     )
     (path "/ddd7290c-9338-4156-8fc4-c8c1045ba903/c2c90718-4d9f-4ef5-81a7-15980c454fb8"
       (reference "C27") (unit 1) (value "100uF") (footprint "Capacitor_SMD:C_1210_3225Metric")
+    )
+    (path "/8600ef7b-7ca3-4a98-82a9-dc0d4d9efebb/57ebf0ae-ce32-4e87-bcc0-a3c92ff85e2b"
+      (reference "C28") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/ddd7290c-9338-4156-8fc4-c8c1045ba903/431b55cc-a9c8-4999-8c91-373433ab34f0"
       (reference "C29") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -5754,6 +5760,12 @@
     )
     (path "/a04ecede-d1be-4f19-bba9-9cd40a161111/febca48c-ac16-4e58-966a-95d20c0e2c36"
       (reference "R93") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/a04ecede-d1be-4f19-bba9-9cd40a161111/3f9a155b-ff8a-4cf2-8a3d-a6361ab24ec5"
+      (reference "R94") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/a04ecede-d1be-4f19-bba9-9cd40a161111/d410bbe8-62ea-4bf7-8bbe-58ba1610af3b"
+      (reference "R95") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/dd619e6a-a0e1-4beb-8356-bcf75161c392/577f4706-5d40-4538-9616-d5b6ad5ea9f6"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_CK_RS282G05A3")
