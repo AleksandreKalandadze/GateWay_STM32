@@ -1,4 +1,4 @@
-19951795085402481
+19955094261147320
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51617,6 +51617,20 @@ Antenna_13.56mhz_40x40
 0
 37
 37
+Footprint
+Antenna_13.56mhz_40x40_2
+
+
+0
+8
+8
+Footprint
+Antenna_13.56mhz_44x20
+
+
+0
+8
+8
 Footprint
 BT131-600-2
 

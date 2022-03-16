@@ -5044,6 +5044,24 @@
     (path "/e0228e45-5e0c-439e-8ea8-5697529604dd/2c8b1a7a-111a-41a7-b837-a1f4012c4e65"
       (reference "#PWR0311") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/8944a068-f989-4394-a0e4-fb891ac82c67/d97c9517-73ab-4f6f-9b63-41503f70c946"
+      (reference "#PWR0312") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8944a068-f989-4394-a0e4-fb891ac82c67/28d0f82f-b9e1-484b-9215-a0fc8d6502d6"
+      (reference "#PWR0313") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8944a068-f989-4394-a0e4-fb891ac82c67/d60193f4-8481-4abd-b144-cbba3dc6e1a6"
+      (reference "#PWR0314") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8944a068-f989-4394-a0e4-fb891ac82c67/03268d63-11ef-442a-9ae1-385f65e666f1"
+      (reference "#PWR0315") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8944a068-f989-4394-a0e4-fb891ac82c67/8fc16aad-3e04-42af-a4dd-d9579404b0ad"
+      (reference "#PWR0316") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8944a068-f989-4394-a0e4-fb891ac82c67/79c80a96-370f-415e-8dc3-d5c70f9f4e93"
+      (reference "#PWR0317") (unit 1) (value "GND") (footprint "")
+    )
     (path "/17dbbc3f-e526-4f0c-aeef-1a51fbd344a5/44e527b0-0c19-4642-86b3-bad529530e43"
       (reference "#PWR0319") (unit 1) (value "+5V") (footprint "")
     )
@@ -5538,6 +5556,9 @@
     )
     (path "/1a27b42a-e314-45f7-981c-a9706a7662df/33872170-1318-49d3-a9cf-aabd45781f4f"
       (reference "C114") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
+    (path "/8944a068-f989-4394-a0e4-fb891ac82c67/f032396c-cd19-4a32-8cf5-4cd00c73c2fb"
+      (reference "C115") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/c160f45b-9b3f-4634-96f2-f5447d1e210d"
       (reference "D1") (unit 1) (value "1N5819") (footprint "Footprint:SOD-323")
@@ -6102,6 +6123,9 @@
     )
     (path "/1a27b42a-e314-45f7-981c-a9706a7662df/f30a38a6-df38-4442-83eb-9c7b9f1a32a6"
       (reference "U25") (unit 1) (value "RT9742AGJ5F") (footprint "Package_TO_SOT_SMD:TSOT-23-5")
+    )
+    (path "/8944a068-f989-4394-a0e4-fb891ac82c67/742aa22e-6c07-4a50-85eb-9780989225b7"
+      (reference "U26") (unit 1) (value "24AA02E48") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/8832c854-dd5b-4a42-8207-a65f82d7dd7a"
       (reference "Y1") (unit 1) (value "8mhz") (footprint "Footprint:Crystal_smd_3225")
