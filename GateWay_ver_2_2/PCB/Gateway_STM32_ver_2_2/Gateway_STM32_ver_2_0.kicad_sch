@@ -5221,10 +5221,10 @@
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/019ca31f-c666-4ad4-9da0-821bbd7be497/6ad2d142-1fc3-46bf-a53a-85bb7855cba5"
-      (reference "AE1") (unit 1) (value "Antenna_Shield") (footprint "Connector_Coaxial:SMA_Amphenol_901-144_Vertical")
+      (reference "AE1") (unit 1) (value "Antenna_Shield") (footprint "Connector_Coaxial:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount")
     )
     (path "/019ca31f-c666-4ad4-9da0-821bbd7be497/b6325f68-3a4b-4710-9c40-dfae2e09acc6"
-      (reference "AE2") (unit 1) (value "Antenna_Shield") (footprint "Connector_Coaxial:SMA_Amphenol_901-144_Vertical")
+      (reference "AE2") (unit 1) (value "Antenna_Shield") (footprint "Connector_Coaxial:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount")
     )
     (path "/1e2ef2b5-2341-4eac-ae4a-470564c8e66d"
       (reference "BT1") (unit 1) (value "Battery") (footprint "Footprint:CR2032_Holder_Vertical")
